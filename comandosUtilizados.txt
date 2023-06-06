@@ -1,0 +1,37 @@
+ 2025  git clone git@github.com:tineojf/20230605-TineoJeanFranco.git
+ 2026  ls
+ 2027  clear
+ 2028  cd 20230605-TineoJeanFranco
+ 2029  ls
+ 2030  git remote -v
+ 2031  clear
+ 2032  ls
+ 2033  code .
+ 2034  touch comandos.txt main.js index.html
+ 2035  gss
+ 2036  glo
+ 2037  clear
+ 2038  gaa && gcam 'commit 01 de JeanFrancoTineo'
+ 2039  git branch feature01
+ 2040  git checkout feature01
+ 2041  ls
+ 2042  git branch
+ 2043  clear
+ 2044  mkdir Terminal Hardware
+ 2045  ls
+ 2046  touch Hardware/resumen.txt Terminal/resumen.txt
+ 2047  gaa && gcam 'commit 02 de JeanFrancoTineo'
+ 2048  git push origin feature01
+ 2049  git push origin main
+ 2050  clear
+ 2051  git branch feature02
+ 2052  git checkout feature02
+ 2053  clear
+ 2054  git branch main
+ 2055  git checkout main
+ 2056  git checkout feature02
+ 2057  gaa && gcam 'commit 03 de JeanFrancoTineo'
+ 2058  git push origin feature02
+ 2059  clear
+ 2060  git checkout main
+ 2061  mv comandos.txt comandosUtilizados.txt
